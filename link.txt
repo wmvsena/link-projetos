@@ -1,3 +1,0 @@
-link do jogo secreto: https://jogo-eta-snowy.vercel.app/
-
-link do Amigo Secreto: https://amigosecreto-kappa.vercel.app/
